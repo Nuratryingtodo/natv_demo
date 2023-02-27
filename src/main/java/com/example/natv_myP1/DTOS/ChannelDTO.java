@@ -13,7 +13,7 @@ String channelName;
 String logo;
 Double pricePerLetter;
 List<DiscountsDTO> discounts;
-
+//SSSS
 
 
 
